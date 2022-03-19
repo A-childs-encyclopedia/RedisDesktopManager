@@ -1,5 +1,4 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
+Reason for the fork:The original author decided to remove the russian translation "in protest of russia's invasion". Apparently he doesn't realize that half of Russian speakers are not Russian citizens. (To be clear, I'm not supporting russia. I hate the invasion too). This fork has the translation added back in
 
 ## [RESP.app - GUI for Redis &reg; (Formerly RedisDesktopManager)](https://resp.app "RESP.app Official Site")
 
